@@ -1,0 +1,28 @@
+body {
+    font-family: Ariel, san-serif;
+    margin: 40px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    color: black
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+a { 
+    text-decoration: none;
+    color:#06c
+}
+
+a:hover {
+    text-decoration: none;
+}
